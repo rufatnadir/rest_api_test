@@ -166,7 +166,7 @@
 
     <properties>
         <!-- marshalling -->
-        <jackson.version>2.7.2</jackson.version>
+        <jackson.version>2.9.10.3</jackson.version>
 
         <!-- logging -->
         <org.slf4j.version>1.7.13</org.slf4j.version>
